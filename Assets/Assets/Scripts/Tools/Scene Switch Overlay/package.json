@@ -1,0 +1,17 @@
+{
+  "name": "com.kabreetgames.sceneswitchoverlay",
+  "displayName": "Scene Switch Overlay",
+  "description": "A Unity Editor scene overlay that allows you to quickly switch between scenes and prefabs view in the editor.",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "Documentation": "https://github.com/ahmedmostaafa/Kabreet-Assets/tree/main/Assets/Scene%20Switch%20Overlay",
+  "ChangeLog": "https://github.com/ahmedmostaafa/Kabreet-Assets/blob/main/Assets/Scene%20Switch%20Overlay/CHANGELOG.md",
+  "license": "https://github.com/ahmedmostaafa/Kabreet-Assets/blob/main/Assets/Scene%20Switch%20Overlay/LICENSE",
+  "author": {
+    "name": "Ahmed Mostafa",
+    "email": "thedragon7ell@gmail.com",
+    "url": "http://kabreetgames.com/"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,18 @@
+{
+    "name": "KabreetGames.SceneReferences.Editor",
+    "rootNamespace": "KabreetGames.SceneReferences.Editor",
+    "references": [
+        "GUID:40249bc0b378e8241b50a5ae45b34804"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

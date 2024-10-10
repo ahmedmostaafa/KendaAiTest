@@ -1,0 +1,20 @@
+{
+    "name": "KabreetGames.UiSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:40249bc0b378e8241b50a5ae45b34804",
+        "GUID:ebe635dbe6f5713428bd5dac672b1661",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:4706c7fcf109463a96e07de6e09d86ea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

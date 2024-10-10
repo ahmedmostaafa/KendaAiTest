@@ -1,0 +1,14 @@
+{
+  "name": "com.kabreetgames.scenereferenceattribute",
+  "displayName": "Scene Refrance Attribute",
+  "description": "Contains kabreet games scene reference attribute",
+  "version": "1.0.1",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Ahmed Mostafa",
+    "email": "thedragon7ell@gmail.com",
+    "url": "http://kabreetgames.com/"
+  },
+  "dependencies": {}
+}

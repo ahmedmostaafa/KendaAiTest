@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01244151b2254b919e0db3e3ef3530cb, type: 3}
+  m_Name: UiMenuData
+  m_EditorClassIdentifier: 
+  backAction: {fileID: 0}
+  tapNavigationAction: {fileID: 0}
+  actionButtonPrefab:
+    prefab: {fileID: 3739363388892475809, guid: 4e7bfb75a3012d843844d4e8e9d5832d, type: 3}
+    thumbnail: {fileID: 0}
+  menuPrefab:
+    prefab: {fileID: 320548246105252150, guid: e0d6050743486d84d8d4075dd4d6fceb, type: 3}
+    thumbnail: {fileID: 0}
+  prefabs:
+  - prefab: {fileID: 6408310114058940300, guid: 19cd2bf26c08f2e4ba84a4ffc1592388, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 4110721032788940443, guid: fea6e5df975249743a70a383156cb8f3, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 3739363388892475809, guid: 4e7bfb75a3012d843844d4e8e9d5832d, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 3739363388892475809, guid: 4bb8338e88ed6c445be40bb36fb64ec6, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 320548246105252150, guid: e0d6050743486d84d8d4075dd4d6fceb, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 7485349380613241834, guid: 266066d7423428642b1f55e48cd17d9c, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 3739363388892475809, guid: 48629bb332c3e134893a7f3cc8e8f62d, type: 3}
+    thumbnail: {fileID: 0}
+  - prefab: {fileID: 6932378194318234783, guid: 2481a43242717cc46942f13b9ddf19fb, type: 3}
+    thumbnail: {fileID: 0}

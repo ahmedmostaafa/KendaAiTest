@@ -1,0 +1,14 @@
+{
+  "name": "com.kabreetgames.timemanager",
+  "displayName": "Time Manager",
+  "description": "Add Time Manager that has:\n countdown Timer \n Frequency Timer \n Stopwatch Timer",
+  "version": "1.0.4",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "author": {
+    "name": "Ahmed Mostafa",
+    "email": "thedragon7ell@gmail.com",
+    "url": "http://kabreetgames.com/"
+  }
+}

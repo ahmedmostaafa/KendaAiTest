@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 07af8d94769ae16428d3fa58518fac43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2312692914756861524
+    second: leagcyGame_0
+  - first:
+      213: 6523600912002641442
+    second: leagcyGame_1
+  - first:
+      213: -6485519487877915378
+    second: leagcyGame_2
+  - first:
+      213: -7186480603009742405
+    second: leagcyGame_3
+  - first:
+      213: 3751437631535304395
+    second: leagcyGame_4
+  - first:
+      213: -3861185730584251467
+    second: leagcyGame_5
+  - first:
+      213: 3679328726508223477
+    second: leagcyGame_6
+  - first:
+      213: -2425124742938383715
+    second: leagcyGame_7
+  - first:
+      213: 591202215574223901
+    second: leagcyGame_8
+  - first:
+      213: -1438549924252128492
+    second: leagcyGame_9
+  - first:
+      213: 8103332064405336880
+    second: leagcyGame_10
+  - first:
+      213: 5953841401542810278
+    second: leagcyGame_11
+  - first:
+      213: -8092263289523033434
+    second: leagcyGame_12
+  - first:
+      213: -8426292469865471600
+    second: leagcyGame_13
+  - first:
+      213: 8646738585824605326
+    second: leagcyGame_14
+  - first:
+      213: 6381234291540617497
+    second: leagcyGame_15
+  - first:
+      213: 8149906099765318547
+    second: leagcyGame_16
+  - first:
+      213: 4530571524504791012
+    second: leagcyGame_17
+  - first:
+      213: -8062941761941337274
+    second: leagcyGame_18
+  - first:
+      213: -438658428454521975
+    second: leagcyGame_19
+  - first:
+      213: 7290273173265264866
+    second: leagcyGame_20
+  - first:
+      213: 8110880220748759084
+    second: leagcyGame_21
+  - first:
+      213: -6573004981185143246
+    second: leagcyGame_22
+  - first:
+      213: -5350184563382606944
+    second: leagcyGame_23
+  - first:
+      213: -8484284277599024022
+    second: leagcyGame_24
+  - first:
+      213: 5212200562953027883
+    second: leagcyGame_25
+  - first:
+      213: -5624144335927042711
+    second: leagcyGame_26
+  - first:
+      213: 8216988995020648227
+    second: leagcyGame_27
+  - first:
+      213: 8080394808469725246
+    second: leagcyGame_28
+  - first:
+      213: -1205802134140743353
+    second: leagcyGame_29
+  - first:
+      213: -4914731564681429478
+    second: leagcyGame_30
+  - first:
+      213: -5252315044446930050
+    second: leagcyGame_31
+  - first:
+      213: -7295416527962147567
+    second: leagcyGame_32
+  - first:
+      213: 8964260028109918127
+    second: leagcyGame_33
+  - first:
+      213: -6826589345178672476
+    second: leagcyGame_34
+  - first:
+      213: -8938009107651928675
+    second: leagcyGame_35
+  - first:
+      213: -6083017109510762918
+    second: leagcyGame_36
+  - first:
+      213: 1320178757500149947
+    second: leagcyGame_37
+  - first:
+      213: -6979487196928437531
+    second: leagcyGame_38
+  - first:
+      213: -5345049796559409196
+    second: leagcyGame_39
+  - first:
+      213: -8155230335870158903
+    second: leagcyGame_40
+  - first:
+      213: -6300364864331539700
+    second: leagcyGame_41
+  - first:
+      213: -3783047579387977542
+    second: leagcyGame_42
+  - first:
+      213: 7821415163266567816
+    second: leagcyGame_43
+  - first:
+      213: -8969547523465063324
+    second: leagcyGame_44
+  - first:
+      213: 3459554240767732912
+    second: leagcyGame_45
+  - first:
+      213: -5629273094996307898
+    second: leagcyGame_46
+  - first:
+      213: -5742403097345146176
+    second: leagcyGame_47
+  - first:
+      213: -6948368449991554774
+    second: leagcyGame_48
+  - first:
+      213: -2303522534419716786
+    second: leagcyGame_49
+  - first:
+      213: 2120830118658612254
+    second: leagcyGame_50
+  - first:
+      213: -6810814687247953913
+    second: leagcyGame_51
+  - first:
+      213: 3170953279881477908
+    second: leagcyGame_52
+  - first:
+      213: 9039734050039948546
+    second: leagcyGame_53
+  - first:
+      213: 4252373473323809540
+    second: leagcyGame_54
+  - first:
+      213: -5289657236227099936
+    second: leagcyGame_55
+  - first:
+      213: -2192696227004868870
+    second: leagcyGame_56
+  - first:
+      213: -7113603724789094996
+    second: leagcyGame_57
+  - first:
+      213: -8397377856882210437
+    second: leagcyGame_58
+  - first:
+      213: 1271599980494933688
+    second: leagcyGame_59
+  - first:
+      213: 6902476260780971440
+    second: leagcyGame_60
+  - first:
+      213: -419491657689250547
+    second: leagcyGame_61
+  - first:
+      213: -3459075667285118823
+    second: leagcyGame_62
+  - first:
+      213: 7116726542844842012
+    second: leagcyGame_63
+  - first:
+      213: 3705607533238831599
+    second: leagcyGame_64
+  - first:
+      213: 2434695358672785830
+    second: leagcyGame_65
+  - first:
+      213: 5088135182811061186
+    second: leagcyGame_66
+  - first:
+      213: -8643869974312950576
+    second: leagcyGame_67
+  - first:
+      213: -7622461986113417590
+    second: leagcyGame_68
+  - first:
+      213: -424277741673504196
+    second: leagcyGame_69
+  - first:
+      213: 9068350349222346276
+    second: leagcyGame_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leagcyGame_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 982
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1ca551c0aa7efd0800000000000000
+      internalID: -2312692914756861524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1135
+        width: 249
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ee458477c788a50800000000000000
+      internalID: 6523600912002641442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 982
+        width: 213
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd925336ecef5a0800000000000000
+      internalID: -6485519487877915378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1103
+        width: 52
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb98e5897fd744c90800000000000000
+      internalID: -7186480603009742405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1109
+        width: 61
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcec1b066a8cf0430800000000000000
+      internalID: 3751437631535304395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1106
+        width: 159
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f7b419005a6ac0800000000000000
+      internalID: -3861185730584251467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_6
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1075
+        width: 201
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb96b9bf99f0330800000000000000
+      internalID: 3679328726508223477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_7
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 998
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aa52925e9385ed0800000000000000
+      internalID: -2425124742938383715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_8
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1125
+        width: 255
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cb9b1684f543800800000000000000
+      internalID: 591202215574223901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_9
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 955
+        width: 149
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b6945377e390ce0800000000000000
+      internalID: -1438549924252128492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1064
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b9eb4491d47070800000000000000
+      internalID: 8103332064405336880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 949
+        width: 263
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa19fbb53b40a250800000000000000
+      internalID: 5953841401542810278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_12
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 998
+        width: 206
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaab0fa96182bf80800000000000000
+      internalID: -8092263289523033434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_13
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1067
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ae10a4abcf0b80800000000000000
+      internalID: -8426292469865471600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_14
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 963
+        width: 220
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e843db17ee26ff770800000000000000
+      internalID: 8646738585824605326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1040
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919e1d767c2be8850800000000000000
+      internalID: 6381234291540617497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_16
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 988
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3931d4dea684a1170800000000000000
+      internalID: 8149906099765318547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1005
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ab9b2cc2dfde30800000000000000
+      internalID: 4530571524504791012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 820
+        width: 321
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b03d2df2daa1090800000000000000
+      internalID: -8062941761941337274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 917
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983bc32cb7299e9f0800000000000000
+      internalID: -438658428454521975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 818
+        width: 251
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0390853d04c2560800000000000000
+      internalID: 7290273173265264866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_21
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 907
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c8756692af8070800000000000000
+      internalID: 8110880220748759084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_22
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 844
+        width: 178
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e169d7bcef7c4a0800000000000000
+      internalID: -6573004981185143246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_23
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 794
+        width: 349
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a32dc07c7350c5b0800000000000000
+      internalID: -5350184563382606944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 772
+        width: 322
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c4744b664c14a80800000000000000
+      internalID: -8484284277599024022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_25
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 885
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2108ecebc4755840800000000000000
+      internalID: 5212200562953027883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_26
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 875
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d1b83468603f1b0800000000000000
+      internalID: -5624144335927042711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_27
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 872
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fef7b94fb980270800000000000000
+      internalID: 8216988995020648227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 589
+        width: 393
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30afbb3444532070800000000000000
+      internalID: 8080394808469725246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_29
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 695
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741122df851244fe0800000000000000
+      internalID: -1205802134140743353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 632
+        width: 199
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e73c86ead5bcbb0800000000000000
+      internalID: -4914731564681429478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_31
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 732
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bfc478b470c17b0800000000000000
+      internalID: -5252315044446930050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_32
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 605
+        width: 235
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1157d42125971ca90800000000000000
+      internalID: -7295416527962147567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_33
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 739
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf89b93003776c70800000000000000
+      internalID: 8964260028109918127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_34
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 666
+        width: 178
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2a82dc8251341a0800000000000000
+      internalID: -6826589345178672476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_35
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 658
+        width: 164
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d533b7210d5f380800000000000000
+      internalID: -8938009107651928675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_36
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 726
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eccf80b28c49ba0800000000000000
+      internalID: -6083017109510762918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_37
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 725
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb020d8d597325210800000000000000
+      internalID: 1320178757500149947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_38
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 669
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e291b09f51e32f90800000000000000
+      internalID: -6979487196928437531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_39
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 707
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df6d41878192d5b0800000000000000
+      internalID: -5345049796559409196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 673
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c738f0c73dc2de80800000000000000
+      internalID: -8155230335870158903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_41
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 705
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b9a22698b9098a0800000000000000
+      internalID: -6300364864331539700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 682
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ad2e154aef7bc0800000000000000
+      internalID: -3783047579387977542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 689
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e8b5fb6af3b8c60800000000000000
+      internalID: 7821415163266567816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_44
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 671
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46451e3dc04c58380800000000000000
+      internalID: -8969547523465063324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 672
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2822a04ec20030800000000000000
+      internalID: 3459554240767732912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_46
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 666
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640d41df1fdc0e1b0800000000000000
+      internalID: -5629273094996307898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_47
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 637
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c3a9bec2ee40b0800000000000000
+      internalID: -5742403097345146176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_48
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 659
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29c8b175bf629f90800000000000000
+      internalID: -6948368449991554774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_49
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 660
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452ec3a57e3800e0800000000000000
+      internalID: -2303522534419716786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_50
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 641
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c989b91c3be6d10800000000000000
+      internalID: 2120830118658612254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_51
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 639
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700929f80202b71a0800000000000000
+      internalID: -6810814687247953913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_52
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 434
+        width: 445
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff1b6253d710c20800000000000000
+      internalID: 3170953279881477908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_53
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 622
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20562a45936937d70800000000000000
+      internalID: 9039734050039948546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 345
+        width: 442
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b72c9d427730b30800000000000000
+      internalID: 4252373473323809540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_55
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 373
+        width: 403
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2fb1bf4cc5796b0800000000000000
+      internalID: -5289657236227099936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_56
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 333
+        width: 425
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af61901266af191e0800000000000000
+      internalID: -2192696227004868870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_57
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 439
+        width: 165
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ec0f0a17674d90800000000000000
+      internalID: -7113603724789094996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_58
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 8
+        width: 399
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790ec39455867b80800000000000000
+      internalID: -8397377856882210437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_59
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 372
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4bcde171a5a110800000000000000
+      internalID: 1271599980494933688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_60
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 8
+        width: 360
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b59a6a96958acf50800000000000000
+      internalID: 6902476260780971440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_61
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 372
+        width: 87
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0541355f8aad2af0800000000000000
+      internalID: -419491657689250547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_62
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 8
+        width: 266
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f540f105eeffc0800000000000000
+      internalID: -3459075667285118823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_63
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 303
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105cdda511b3c260800000000000000
+      internalID: 7116726542844842012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 443
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe946b71b66fc6330800000000000000
+      internalID: 3705607533238831599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_65
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 8
+        width: 447
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1dbf57786c9c120800000000000000
+      internalID: 2434695358672785830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_66
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 213
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbde9c9dffac9640800000000000000
+      internalID: 5088135182811061186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_67
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 303
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d469683e0eca0880800000000000000
+      internalID: -8643869974312950576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 17
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e8acb8533973690800000000000000
+      internalID: -7622461986113417590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_69
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 120
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32227154a9ac1af0800000000000000
+      internalID: -424277741673504196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leagcyGame_70
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 8
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eff20b89049dd70800000000000000
+      internalID: 9068350349222346276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      leagcyGame_0: -2312692914756861524
+      leagcyGame_1: 6523600912002641442
+      leagcyGame_10: 8103332064405336880
+      leagcyGame_11: 5953841401542810278
+      leagcyGame_12: -8092263289523033434
+      leagcyGame_13: -8426292469865471600
+      leagcyGame_14: 8646738585824605326
+      leagcyGame_15: 6381234291540617497
+      leagcyGame_16: 8149906099765318547
+      leagcyGame_17: 4530571524504791012
+      leagcyGame_18: -8062941761941337274
+      leagcyGame_19: -438658428454521975
+      leagcyGame_2: -6485519487877915378
+      leagcyGame_20: 7290273173265264866
+      leagcyGame_21: 8110880220748759084
+      leagcyGame_22: -6573004981185143246
+      leagcyGame_23: -5350184563382606944
+      leagcyGame_24: -8484284277599024022
+      leagcyGame_25: 5212200562953027883
+      leagcyGame_26: -5624144335927042711
+      leagcyGame_27: 8216988995020648227
+      leagcyGame_28: 8080394808469725246
+      leagcyGame_29: -1205802134140743353
+      leagcyGame_3: -7186480603009742405
+      leagcyGame_30: -4914731564681429478
+      leagcyGame_31: -5252315044446930050
+      leagcyGame_32: -7295416527962147567
+      leagcyGame_33: 8964260028109918127
+      leagcyGame_34: -6826589345178672476
+      leagcyGame_35: -8938009107651928675
+      leagcyGame_36: -6083017109510762918
+      leagcyGame_37: 1320178757500149947
+      leagcyGame_38: -6979487196928437531
+      leagcyGame_39: -5345049796559409196
+      leagcyGame_4: 3751437631535304395
+      leagcyGame_40: -8155230335870158903
+      leagcyGame_41: -6300364864331539700
+      leagcyGame_42: -3783047579387977542
+      leagcyGame_43: 7821415163266567816
+      leagcyGame_44: -8969547523465063324
+      leagcyGame_45: 3459554240767732912
+      leagcyGame_46: -5629273094996307898
+      leagcyGame_47: -5742403097345146176
+      leagcyGame_48: -6948368449991554774
+      leagcyGame_49: -2303522534419716786
+      leagcyGame_5: -3861185730584251467
+      leagcyGame_50: 2120830118658612254
+      leagcyGame_51: -6810814687247953913
+      leagcyGame_52: 3170953279881477908
+      leagcyGame_53: 9039734050039948546
+      leagcyGame_54: 4252373473323809540
+      leagcyGame_55: -5289657236227099936
+      leagcyGame_56: -2192696227004868870
+      leagcyGame_57: -7113603724789094996
+      leagcyGame_58: -8397377856882210437
+      leagcyGame_59: 1271599980494933688
+      leagcyGame_6: 3679328726508223477
+      leagcyGame_60: 6902476260780971440
+      leagcyGame_61: -419491657689250547
+      leagcyGame_62: -3459075667285118823
+      leagcyGame_63: 7116726542844842012
+      leagcyGame_64: 3705607533238831599
+      leagcyGame_65: 2434695358672785830
+      leagcyGame_66: 5088135182811061186
+      leagcyGame_67: -8643869974312950576
+      leagcyGame_68: -7622461986113417590
+      leagcyGame_69: -424277741673504196
+      leagcyGame_7: -2425124742938383715
+      leagcyGame_70: 9068350349222346276
+      leagcyGame_8: 591202215574223901
+      leagcyGame_9: -1438549924252128492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
