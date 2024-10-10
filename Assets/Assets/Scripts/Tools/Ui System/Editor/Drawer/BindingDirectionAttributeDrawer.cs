@@ -50,6 +50,7 @@ namespace KabreetGames.UiSystem.Editor.Drawer
             {
                 RefreshDirectionOptions(property);
             }
+
         }
 
         public override float GetPropertyHeight(SerializedProperty property, GUIContent label)
@@ -73,7 +74,7 @@ namespace KabreetGames.UiSystem.Editor.Drawer
             if (action == null)
             {
                 directionOptions = Array.Empty<GUIContent>();
-                directionOptionValues = Array.Empty<string>();
+                directionOptionValues = null;
                 selectedDirectionOption = -1;
                 haveDirection = false;
                 return;
