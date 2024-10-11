@@ -36,6 +36,11 @@ namespace KabreetGames.UiSystem.Editor
             CreateData();
         }
 
+        private void Update()
+        {
+            Repaint();
+        }
+
         private void OnDisable()
         {
             Save();

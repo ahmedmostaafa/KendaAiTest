@@ -1,4 +1,5 @@
 using DG.Tweening;
+using FMODUnity;
 using KabreetGames.SceneReferences;
 using KendaAi.Agents.Planer;
 using KendaAi.Inventory.Interface;
@@ -49,6 +50,7 @@ namespace KendaAi.TestProject.PuzzleSystem
             {
                 agent.ChangePlane<MoveState>();
             };
+            RuntimeManager.PlayOneShot("event:/Open", transform.position);
         }
 
         private void ShowCamera()

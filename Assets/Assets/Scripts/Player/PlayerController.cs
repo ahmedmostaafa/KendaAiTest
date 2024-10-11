@@ -1,7 +1,9 @@
+using KabreetGames.EventBus.Interfaces;
 using KabreetGames.SceneReferences;
 using KendaAi.Agents.InputSystem;
 using KendaAi.Agents.Planer;
 using KendaAi.BlackboardSystem;
+using KendaAi.Events;
 using KendaAi.Inventory.Interface;
 using KendaAi.TestProject.PlayerController.States;
 using Spine.Unity;
@@ -19,21 +21,25 @@ namespace KendaAi.TestProject.PlayerController
         [field: SerializeField, Child] public SkeletonAnimation Animator { get; private set; }
 
         private StateMachine stateMachine;
-        public bool IsAlive => true;
+        public bool IsAlive { get; private set; } = true;
 
         [SerializeField] private InputReader inputReader;
-
         private void OnEnable()
         {
+
             inputReader.EnablePlayerActions();
             Planer = stateMachine = new StateMachine(inputReader, this);
             Blackboard = new Blackboard();
-            stateMachine.SetState<MoveState>();
+            stateMachine.SetState<IdleState>();
+            EventBus<DeathEvent>.Register(Death);
         }
+
+
 
         private void OnDisable()
         {
             inputReader.DisablePlayerActions();
+            EventBus<DeathEvent>.Deregister(Death);
         }
 
         private void Update()
@@ -73,6 +79,11 @@ namespace KendaAi.TestProject.PlayerController
             stateMachine.ChangeState<T>();
         }
 
+        private void Death(DeathEvent obj)
+        {
+            ChangePlane<DeathState>();
+            IsAlive = false;
+        }
         private void OnDrawGizmos()
         {
             Planer?.DrawGizmos();

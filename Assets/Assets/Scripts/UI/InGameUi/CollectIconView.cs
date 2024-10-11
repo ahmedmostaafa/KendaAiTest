@@ -20,18 +20,18 @@ namespace KendaAi.Scripts.Ui
             image.enabled = false;
         }
 
-        public void Move(Vector3 startPos, Sprite icon, LinkedPool<CollectIconView> pool)
+        public void Move(Vector3 startPos, RectTransform coinCollectTarget, Sprite icon,
+            LinkedPool<CollectIconView> pool)
         {
             var screenSize = new Vector2(960f, 540f);
             var viewPos = cam.WorldToViewportPoint(startPos);
             var screenPos = new Vector2(viewPos.x * screenSize.x, viewPos.y * screenSize.y);
-
             rectTransform.anchoredPosition = screenPos;
             image.enabled = true;
             image.sprite = icon;
-            viewPos = new Vector3(900f, 490f, 0);
 
-            rectTransform.DOAnchorPos(viewPos, duration).SetEase(Ease.Linear).onComplete += () =>
+            rectTransform.DOMove(coinCollectTarget.position, duration)
+                .SetEase(Ease.Linear).onComplete += () =>
             {
                 image.enabled = false;
                 pool.Release(this);

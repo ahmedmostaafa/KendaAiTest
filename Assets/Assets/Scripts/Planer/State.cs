@@ -1,4 +1,3 @@
-using System;
 using KendaAi.Agents.InputSystem;
 using KendaAi.TestProject.PlayerController;
 using KendaAi.TestProject.PlayerController.States;
@@ -22,8 +21,8 @@ namespace KendaAi.Agents.Planer
                 MoveState => lookingLeft
                     ? nameof(AnimationClips.runningLeft)
                     : nameof(AnimationClips.runningRight),
-                SolvePuzzleState => nameof(AnimationClips.idle),
-                _ => throw new ArgumentOutOfRangeException()
+                SolvePuzzleState or DeathState or IdleState=> nameof(AnimationClips.idle),
+                _ => nameof(AnimationClips.idle)
             };
         }
 

@@ -11,23 +11,23 @@ namespace KendaAi.Agents.InputSystem
     {
         [field: SerializeField]
         public PlayerInputDevice ActiveDevice { get; private set; } = PlayerInputDevice.Keyboard;
-        private ActionMap inputActions;
-        public ActionMap Action => inputActions;
-        
-        public float HorizontalMove => inputActions.Player.Move.ReadValue<float>();
+
+        public ActionMap Action { get; private set; }
+
+        public float HorizontalMove => Action.Player.Move.ReadValue<float>();
         public void EnablePlayerActions()
         {
-            inputActions = new ActionMap();
+            Action = new ActionMap();
             InputUser.onChange += OnUserChange;
-            inputActions.Enable();
-            inputActions.Player.SetCallbacks(this);
+            Action.Enable();
+            Action.Player.SetCallbacks(this);
         }
         public void DisablePlayerActions()
         {
-            if (inputActions != null)
+            if (Action != null)
             {
-                inputActions.Disable();
-                inputActions.Player.RemoveCallbacks(this);
+                Action.Disable();
+                Action.Player.RemoveCallbacks(this);
             }
             InputUser.onChange -= OnUserChange;
         }

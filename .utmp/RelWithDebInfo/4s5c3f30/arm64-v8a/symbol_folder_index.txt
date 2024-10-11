@@ -1,0 +1,1 @@
+H:\Unity Projects\Jam\Collect Treasures\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4s5c3f30\obj\arm64-v8a

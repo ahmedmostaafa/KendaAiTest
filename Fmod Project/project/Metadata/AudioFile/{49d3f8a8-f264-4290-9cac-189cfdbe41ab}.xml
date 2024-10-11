@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{49d3f8a8-f264-4290-9cac-189cfdbe41ab}">
+		<property name="assetPath">
+			<value>Lose sound 25.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3449206349206348</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc8e91e9-b21b-4b3b-8119-d3876b4a30cc}</destination>
+		</relationship>
+	</object>
+</objects>

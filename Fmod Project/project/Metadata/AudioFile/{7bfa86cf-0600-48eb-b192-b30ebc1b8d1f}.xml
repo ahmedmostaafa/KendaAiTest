@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7bfa86cf-0600-48eb-b192-b30ebc1b8d1f}">
+		<property name="assetPath">
+			<value>PressRock.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.6383673469387756</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc8e91e9-b21b-4b3b-8119-d3876b4a30cc}</destination>
+		</relationship>
+	</object>
+</objects>
