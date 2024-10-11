@@ -64,6 +64,10 @@ namespace KendaAi.TestProject.PlayerController
         {
             var deltaPosition = (speed * Time.deltaTime);
             var moveDirection = transform.forward;
+            if (Mathf.Abs(transform.position.x + input * deltaPosition) > 3.9f)
+            {
+                input = 0;
+            }
             transform.position += (moveDirection + input * transform.right).normalized * deltaPosition;
         }
 
